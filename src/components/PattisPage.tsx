@@ -1,11 +1,14 @@
 export const PattisPage = () => {
   return (
     <div>
-      {/* <iframe src="https://www.youtube.com/embed/KEfSuXm68OA?si=BkFg-JRo8O8CkpGS&autoplay=1&mute=1" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin"></iframe> */}
       <h1>Happy Mother's Day!</h1>
       <h2>
         Even though I can't be there today, I am so thankful every day that you are my mom!
       </h2>
+      <p>
+        Click play if you want music!
+      </p>
+      <iframe height="150" width="200" src="https://www.youtube.com/embed/KEfSuXm68OA" />
       <img
         alt="Patti's kids and their families"
         className="img"

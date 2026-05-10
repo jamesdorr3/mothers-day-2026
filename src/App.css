@@ -10,7 +10,9 @@ h1,
 h2,
 p {
   color: rgb(8, 8, 8);
+  font-family: "Edu NSW ACT Cursive", cursive;
   font-weight: bold;
+  line-height: 1.1;
   margin: 16px;
 }
 
