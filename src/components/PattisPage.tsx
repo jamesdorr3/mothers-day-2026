@@ -1,6 +1,7 @@
 export const PattisPage = () => {
   return (
     <div>
+      {/* <iframe src="https://www.youtube.com/embed/KEfSuXm68OA?si=BkFg-JRo8O8CkpGS&autoplay=1&mute=1" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin"></iframe> */}
       <h1>Happy Mother's Day!</h1>
       <h2>
         Even though I can't be there today, I am so thankful every day that you are my mom!
@@ -35,7 +36,7 @@ export const PattisPage = () => {
         src="https://lh3.googleusercontent.com/pw/AP1GczMb3rK7cYf5ZZtcqmFmTQ5mpTHuObnCgkgIjvWjBrGpZgU6garnene3PFjMK_fFysPYq_RUckTPZh1DXrwj2s8Dgc90hhNgQIX3Ki_7OMJIPrl9fHvFGuaYzEqlZllML931JlGXxc8ifP2T6LcgS63v=w1436-h958-s-no-gm?authuser=0"
       />
       <h2>
-        I hope that I can give back to you any noticeable fraction of what you have given to me.
+        I hope that I can give you back even a fraction of what you have given to me.
       </h2>
       <img
         alt="James spinning Patti during their mother-son dance"
